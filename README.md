@@ -69,15 +69,23 @@ Autonomous Robot Motion
 ## Autonomous Navigation Simulation
 
 
-Add your GitHub uploaded video link:
+<video src="https://raw.githubusercontent.com/ruddrho/advanced-mobile-robot-navigation/main/navigation_recording.mp4" controls width="850">
+</video>
 
 
-```
-https://github.com/user-attachments/assets/YOUR_VIDEO_LINK
-```
+▶️ Direct Video Link:
+
+https://github.com/ruddrho/advanced-mobile-robot-navigation/blob/main/navigation_recording.mp4
 
 
----
+The video demonstrates:
+
+- Theta* global path planning
+- Pure Pursuit trajectory tracking
+- APF obstacle avoidance
+- Real-time LiDAR scanning
+- SLAM occupancy mapping
+- Autonomous goal reaching
 
 # ✨ Features
 
