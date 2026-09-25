@@ -1,24 +1,5 @@
 <p align="center">
 
-<img src="route_preview.png" width="850">
-
-</p>
-
-
-<h1 align="center">
-Advanced Autonomous Mobile Robot Navigation
-</h1>
-
-
-<p align="center">
-
-Theta* | APF | Pure Pursuit | LiDAR | SLAM
-
-</p>
-
-
-<p align="center">
-
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020a+-orange)
 ![Robotics](https://img.shields.io/badge/Field-Autonomous%20Robotics-blue)
 ![SLAM](https://img.shields.io/badge/Mapping-LiDAR%20SLAM-green)
@@ -26,7 +7,21 @@ Theta* | APF | Pure Pursuit | LiDAR | SLAM
 
 </p>
 
+<p align="center">
+  <img
+    src="./advanced_mobile_robot_navigation.gif"
+    alt="Advanced Autonomous Mobile Robot Navigation Simulation"
+    width="850"
+  />
+</p>
 
+<h1 align="center">
+Advanced Autonomous Mobile Robot Navigation
+</h1>
+
+<p align="center">
+Theta* | APF | Pure Pursuit | LiDAR | SLAM
+</p>
 # 🤖 Project Overview
 
 ## Advanced Autonomous Mobile Robot Navigation using Theta*, APF, Pure Pursuit, Real-Time LiDAR and SLAM Mapping
